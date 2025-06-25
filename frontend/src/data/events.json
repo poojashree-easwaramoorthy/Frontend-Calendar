@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Team Meeting",
+    "date": "2025-06-15",
+    "time": "10:00",
+    "duration": 60,
+    "color": "#4285F4",
+    "description": "Weekly team sync"
+  },
+  {
+    "id": 2,
+    "title": "Lunch with project teammates",
+    "date": "2025-07-15",
+    "time": "12:30",
+    "duration": 90,
+    "color": "#EA4335",
+    "description": "Discuss project requirements"
+  },
+  {
+    "id": 3,
+    "title": "Project Deadline",
+    "date": "2025-06-20",
+    "time": "09:00",
+    "duration": 120,
+    "color": "#FBBC05",
+    "description": "Submit final deliverables"
+  },
+  {
+    "id": 4,
+    "title": "Doctor Appointment",
+    "date": "2025-06-22",
+    "time": "14:00",
+    "duration": 30,
+    "color": "#34A853",
+    "description": "Annual checkup"
+  },
+  {
+    "id": 5,
+    "title": "checkup",
+    "date": "2025-06-26",
+    "time": "14:00",
+    "duration": 30,
+    "color": "#4285F4",
+    "description": "Monthly checkup"
+  }
+]
